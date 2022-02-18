@@ -1,4 +1,4 @@
-name: Deploy_Backend
+name: deploy_backend
 #Deploys and test code made for the backend
 
 on:
